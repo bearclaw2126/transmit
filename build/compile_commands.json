@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/migue/workarea/RFFI programs/transmit/build",
+  "command": "/usr/bin/c++  -I\"/home/migue/workarea/RFFI programs/transmit/src\" -lfftw3_threads -lfftw3 -lm -g -std=gnu++11 -o CMakeFiles/receptor.dir/src/transmit.cpp.o -c \"/home/migue/workarea/RFFI programs/transmit/src/transmit.cpp\"",
+  "file": "/home/migue/workarea/RFFI programs/transmit/src/transmit.cpp",
+  "output": "CMakeFiles/receptor.dir/src/transmit.cpp.o"
+}
+]

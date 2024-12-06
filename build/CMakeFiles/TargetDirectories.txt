@@ -1,0 +1,3 @@
+/home/migue/workarea/RFFI programs/transmit/build/CMakeFiles/receptor.dir
+/home/migue/workarea/RFFI programs/transmit/build/CMakeFiles/edit_cache.dir
+/home/migue/workarea/RFFI programs/transmit/build/CMakeFiles/rebuild_cache.dir

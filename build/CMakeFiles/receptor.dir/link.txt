@@ -1,0 +1,1 @@
+/usr/bin/c++ -lfftw3_threads -lfftw3 -lm -g CMakeFiles/receptor.dir/src/transmit.cpp.o -o receptor  -Wl,-rpath,/usr/local/lib -lfftw3 /usr/local/lib/libuhd.so
